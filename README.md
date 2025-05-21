@@ -1,2 +1,2 @@
-# Heart-Disease-CART-
-CART DAN CONFUSSION MATRIX
+# Klasifikasi heart disease
+klasifikasi penyakit jantung dengan algoritma CART
